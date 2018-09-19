@@ -22,29 +22,29 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="5118" />
+          <entry key="cs" value="5161" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="5118" />
+          <entry key="C#" value="5161" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="cs" value="8" />
+          <entry key="cs" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="C#" value="8" />
+          <entry key="C#" value="10" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/PanelManager.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1330">
@@ -69,6 +69,19 @@
                 <marker date="1537335366135" expanded="true" signature="3924:3962" ph="{...}" />
                 <marker date="1537335366135" expanded="true" signature="3966:4962" ph="/* if(trackedPanels[i].GetComponent&lt;PanelCollider&gt;().panelToMyLeft == null &amp;&amp; trackedPanels[i].GetComponent&lt;Panel ... */" />
                 <marker date="1537335366135" expanded="true" signature="5079:5086" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Panel.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+              <folding>
+                <marker date="1537338191504" expanded="true" signature="6:78" ph="..." />
+                <marker date="1537338191504" expanded="true" signature="115:226" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -244,6 +257,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/UnityARKitPlugin/Examples/FaceTracking/BlendshapePrinter.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PanelCollider.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../AR/AR Midterm/AR Demo/Assets/Vuforia/Scripts/DefaultTrackableEventHandler.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Panel.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/SceneChanger.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Vuforia/Scripts/DefaultTrackableEventHandler.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PanelManager.cs" root0="FORCE_HIGHLIGHTING" />
@@ -260,6 +274,7 @@
         <option value="$PROJECT_DIR$/../../AR/AR Midterm/AR Demo/Assets/Vuforia/Scripts/DefaultTrackableEventHandler.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PanelManager.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ComicStrip.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Panel.cs" />
       </list>
     </option>
   </component>
@@ -538,6 +553,24 @@
             <marker date="1537335366135" expanded="true" signature="3924:3962" ph="{...}" />
             <marker date="1537335366135" expanded="true" signature="3966:4962" ph="/* if(trackedPanels[i].GetComponent&lt;PanelCollider&gt;().panelToMyLeft == null &amp;&amp; trackedPanels[i].GetComponent&lt;Panel ... */" />
             <marker date="1537335366135" expanded="true" signature="5079:5086" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_TextSelector_B.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Panel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+          <folding>
+            <marker date="1537338191504" expanded="true" signature="6:78" ph="..." />
+            <marker date="1537338191504" expanded="true" signature="115:226" ph="{...}" />
           </folding>
         </state>
       </provider>
