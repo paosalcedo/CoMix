@@ -41,47 +41,67 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="1706653524">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cs" value="99" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="C#" value="99" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/PanelManager.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1330">
-              <caret line="70" column="36" selection-start-line="70" selection-start-column="26" selection-end-line="70" selection-end-column="36" />
+            <state relative-caret-position="582">
+              <caret line="82" column="12" selection-start-line="82" selection-start-column="12" selection-end-line="82" selection-end-column="12" />
               <folding>
-                <marker date="1537335366135" expanded="true" signature="6:93" ph="..." />
-                <marker date="1537335366135" expanded="true" signature="136:5125" ph="{...}" />
-                <marker date="1537335366135" expanded="true" signature="179:331" ph="/* public float panel_1_xPos; ... */" />
-                <marker date="1537335366135" expanded="true" signature="823:863" ph="{...}" />
-                <marker date="1537335366135" expanded="true" signature="880:1332" ph="{...}" />
-                <marker date="1537335366135" expanded="true" signature="950:1272" ph="/* if(trackedPanels.Count == 4){ ... */" />
-                <marker date="1537335366135" expanded="true" signature="1391:1487" ph="{...}" />
-                <marker date="1537335366135" expanded="true" signature="1537:2861" ph="{...}" />
-                <marker date="1537335366135" expanded="true" signature="1567:2857" ph="{...}" />
-                <marker date="1537335366135" expanded="true" signature="2889:3704" ph="{...}" />
-                <marker date="1537335366135" expanded="true" signature="2932:3701" ph="{...}" />
-                <marker date="1537335366135" expanded="true" signature="2987:3244" ph="{...}" />
-                <marker date="1537335366135" expanded="true" signature="3090:3230" ph="{...}" />
-                <marker date="1537335366135" expanded="true" signature="3249:3697" ph="/* nearestDropzone = dropzoneArray[0]; ... */" />
-                <marker date="1537335366135" expanded="true" signature="3737:4969" ph="{...}" />
-                <marker date="1537335366135" expanded="true" signature="3766:4966" ph="{...}" />
-                <marker date="1537335366135" expanded="true" signature="3924:3962" ph="{...}" />
-                <marker date="1537335366135" expanded="true" signature="3966:4962" ph="/* if(trackedPanels[i].GetComponent&lt;PanelCollider&gt;().panelToMyLeft == null &amp;&amp; trackedPanels[i].GetComponent&lt;Panel ... */" />
-                <marker date="1537335366135" expanded="true" signature="5079:5086" ph="{...}" />
+                <marker date="1537340400263" expanded="false" signature="6:93" ph="..." />
+                <marker date="1537340400263" expanded="true" signature="136:6287" ph="{...}" />
+                <marker date="1537340400263" expanded="true" signature="179:331" ph="/* public float panel_1_xPos; ... */" />
+                <marker date="1537340400263" expanded="true" signature="823:863" ph="{...}" />
+                <marker date="1537340400263" expanded="true" signature="880:1332" ph="{...}" />
+                <marker date="1537340400263" expanded="true" signature="950:1272" ph="/* if(trackedPanels.Count == 4){ ... */" />
+                <marker date="1537340400263" expanded="true" signature="1391:1487" ph="{...}" />
+                <marker date="1537340400263" expanded="true" signature="1537:4023" ph="{...}" />
+                <marker date="1537340400263" expanded="true" signature="1567:4019" ph="{...}" />
+                <marker date="1537340400263" expanded="true" signature="2175:2730" ph="/* panels[0].speechText.text = comicStrip.comics[CreateKey(panels[0].myNum, panels[1].myNum, panels[2].myNum, pan ... */" />
+                <marker date="1537340400263" expanded="true" signature="3363:3938" ph="/* panels[0].speechText.text = comicStrip.actionstar[CreateKey(panels[0].myNum, panels[1].myNum, panels[2].myNum, ... */" />
+                <marker date="1537340400263" expanded="true" signature="4051:4866" ph="{...}" />
+                <marker date="1537340400263" expanded="true" signature="4094:4863" ph="{...}" />
+                <marker date="1537340400263" expanded="true" signature="4149:4406" ph="{...}" />
+                <marker date="1537340400263" expanded="true" signature="4252:4392" ph="{...}" />
+                <marker date="1537340400263" expanded="true" signature="4411:4859" ph="/* nearestDropzone = dropzoneArray[0]; ... */" />
+                <marker date="1537340400263" expanded="true" signature="4899:6131" ph="{...}" />
+                <marker date="1537340400263" expanded="true" signature="4928:6128" ph="{...}" />
+                <marker date="1537340400263" expanded="true" signature="5086:5124" ph="{...}" />
+                <marker date="1537340400263" expanded="true" signature="5128:6124" ph="/* if(trackedPanels[i].GetComponent&lt;PanelCollider&gt;().panelToMyLeft == null &amp;&amp; trackedPanels[i].GetComponent&lt;Panel ... */" />
+                <marker date="1537340400263" expanded="true" signature="6241:6248" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/Panel.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+            <state relative-caret-position="240">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
               <folding>
-                <marker date="1537338191504" expanded="true" signature="6:78" ph="..." />
-                <marker date="1537338191504" expanded="true" signature="115:226" ph="{...}" />
+                <marker date="1537339744777" expanded="true" signature="6:91" ph="..." />
+                <marker date="1537339744777" expanded="true" signature="128:308" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -103,7 +123,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/PanelCollider.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
+            <state relative-caret-position="448">
               <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
               <folding>
                 <marker date="1537133494820" expanded="false" signature="6:78" ph="..." />
@@ -133,7 +153,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/ComicStrip.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="146">
+            <state relative-caret-position="7472">
               <caret line="469" column="33" selection-start-line="469" selection-start-column="33" selection-end-line="469" selection-end-column="33" />
               <folding>
                 <marker date="1537335415098" expanded="false" signature="6:78" ph="..." />
@@ -187,7 +207,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Vuforia/Scripts/DefaultTrackableEventHandler.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="436">
+            <state relative-caret-position="336">
               <caret line="41" selection-start-line="41" selection-end-line="41" />
               <folding>
                 <marker date="1531775917000" expanded="true" signature="0:366" ph="/* ============================================================================== ... */" />
@@ -216,7 +236,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../../AR/AR Midterm/AR Demo/Assets/Vuforia/Scripts/DefaultTrackableEventHandler.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1945">
+            <state relative-caret-position="1824">
               <caret line="114" column="1" selection-start-line="114" selection-start-column="1" selection-end-line="114" selection-end-column="1" />
               <folding>
                 <marker date="1509238275878" expanded="true" signature="0:316" ph="/* ============================================================================== ... */" />
@@ -252,15 +272,15 @@
     </findStrings>
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CurrentArScene.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ComicStrip.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/UnityARKitPlugin/Examples/FaceTracking/BlendshapePrinter.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PanelCollider.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../../AR/AR Midterm/AR Demo/Assets/Vuforia/Scripts/DefaultTrackableEventHandler.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Panel.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SceneChanger.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Vuforia/Scripts/DefaultTrackableEventHandler.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PanelManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CurrentArScene.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../AR/AR Midterm/AR Demo/Assets/Vuforia/Scripts/DefaultTrackableEventHandler.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SceneChanger.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ComicStrip.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PanelCollider.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Panel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Vuforia/Scripts/DefaultTrackableEventHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/UnityARKitPlugin/Examples/FaceTracking/BlendshapePrinter.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -272,9 +292,9 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/CurrentArScene.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/SceneChanger.cs" />
         <option value="$PROJECT_DIR$/../../AR/AR Midterm/AR Demo/Assets/Vuforia/Scripts/DefaultTrackableEventHandler.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/PanelManager.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ComicStrip.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Panel.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PanelManager.cs" />
       </list>
     </option>
   </component>
@@ -284,7 +304,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="838" />
     <option name="height" value="1050" />
   </component>
@@ -296,10 +316,10 @@
       <pane id="UnityExplorer">
         <option name="show-hidden-items" value="false" />
       </pane>
+      <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
-      <pane id="FileSystemExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -347,7 +367,7 @@
     <frame x="0" y="0" width="1680" height="1050" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.0" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33394384" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -386,6 +406,13 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/TextRotationOverride.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_TextSelector_B.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/CurrentArScene.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
@@ -397,43 +424,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/UnityARKitPlugin/Examples/FaceTracking/BlendshapePrinter.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="26" column="20" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
-          <folding>
-            <marker date="1509691897000" expanded="false" signature="6:104" ph="..." />
-            <marker date="1509691897000" expanded="true" signature="153:1531" ph="{...}" />
-            <marker date="1509691897000" expanded="true" signature="274:494" ph="{...}" />
-            <marker date="1509691897000" expanded="true" signature="509:1184" ph="{...}" />
-            <marker date="1509691897000" expanded="true" signature="528:1181" ph="{...}" />
-            <marker date="1509691897000" expanded="true" signature="678:996" ph="{...}" />
-            <marker date="1509691897000" expanded="true" signature="1227:1298" ph="{...}" />
-            <marker date="1509691897000" expanded="true" signature="1343:1396" ph="{...}" />
-            <marker date="1509691897000" expanded="true" signature="1441:1466" ph="{...}" />
-            <marker date="1509691897000" expanded="true" signature="1522:1529" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/SceneChanger.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
-          <folding>
-            <marker date="1537309541472" expanded="false" signature="6:113" ph="..." />
-            <marker date="1537309541472" expanded="true" signature="156:517" ph="{...}" />
-            <marker date="1537309541472" expanded="true" signature="246:373" ph="{...}" />
-            <marker date="1537309541472" expanded="true" signature="250:370" ph="/* if (instance == null) ... */" />
-            <marker date="1537309541472" expanded="true" signature="428:435" ph="{...}" />
-            <marker date="1537309541472" expanded="true" signature="473:512" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/PanelCollider.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
+        <state relative-caret-position="448">
           <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
           <folding>
             <marker date="1537133494820" expanded="false" signature="6:78" ph="..." />
@@ -459,9 +452,57 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ComicStrip.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7472">
+          <caret line="469" column="33" selection-start-line="469" selection-start-column="33" selection-end-line="469" selection-end-column="33" />
+          <folding>
+            <marker date="1537335415098" expanded="false" signature="6:78" ph="..." />
+            <marker date="1537335415098" expanded="true" signature="104:15555" ph="{...}" />
+            <marker date="1537335415098" expanded="true" signature="221:4314" ph="{...}" />
+            <marker date="1537335415098" expanded="true" signature="4404:9907" ph="{...}" />
+            <marker date="1537335415098" expanded="true" signature="9911:15553" ph="/* public Dictionary&lt;PanelOrder, SpeechSet&gt; comics = new Dictionary&lt;PanelOrder, SpeechSet&gt;(){ ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/SceneChanger.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+          <folding>
+            <marker date="1537309541472" expanded="false" signature="6:113" ph="..." />
+            <marker date="1537309541472" expanded="true" signature="156:517" ph="{...}" />
+            <marker date="1537309541472" expanded="true" signature="246:373" ph="{...}" />
+            <marker date="1537309541472" expanded="true" signature="250:370" ph="/* if (instance == null) ... */" />
+            <marker date="1537309541472" expanded="true" signature="428:435" ph="{...}" />
+            <marker date="1537309541472" expanded="true" signature="473:512" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/UnityARKitPlugin/Examples/FaceTracking/BlendshapePrinter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="26" column="20" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
+          <folding>
+            <marker date="1509691897000" expanded="false" signature="6:104" ph="..." />
+            <marker date="1509691897000" expanded="true" signature="153:1531" ph="{...}" />
+            <marker date="1509691897000" expanded="true" signature="274:494" ph="{...}" />
+            <marker date="1509691897000" expanded="true" signature="509:1184" ph="{...}" />
+            <marker date="1509691897000" expanded="true" signature="528:1181" ph="{...}" />
+            <marker date="1509691897000" expanded="true" signature="678:996" ph="{...}" />
+            <marker date="1509691897000" expanded="true" signature="1227:1298" ph="{...}" />
+            <marker date="1509691897000" expanded="true" signature="1343:1396" ph="{...}" />
+            <marker date="1509691897000" expanded="true" signature="1441:1466" ph="{...}" />
+            <marker date="1509691897000" expanded="true" signature="1522:1529" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Vuforia/Scripts/DefaultTrackableEventHandler.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="436">
+        <state relative-caret-position="336">
           <caret line="41" selection-start-line="41" selection-end-line="41" />
           <folding>
             <marker date="1531775917000" expanded="true" signature="0:366" ph="/* ============================================================================== ... */" />
@@ -488,7 +529,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../../AR/AR Midterm/AR Demo/Assets/Vuforia/Scripts/DefaultTrackableEventHandler.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1945">
+        <state relative-caret-position="1824">
           <caret line="114" column="1" selection-start-line="114" selection-start-column="1" selection-end-line="114" selection-end-column="1" />
           <folding>
             <marker date="1509238275878" expanded="true" signature="0:316" ph="/* ============================================================================== ... */" />
@@ -515,62 +556,43 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ComicStrip.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Panel.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
-          <caret line="469" column="33" selection-start-line="469" selection-start-column="33" selection-end-line="469" selection-end-column="33" />
+        <state relative-caret-position="240">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
           <folding>
-            <marker date="1537335415098" expanded="false" signature="6:78" ph="..." />
-            <marker date="1537335415098" expanded="true" signature="104:15555" ph="{...}" />
-            <marker date="1537335415098" expanded="true" signature="221:4314" ph="{...}" />
-            <marker date="1537335415098" expanded="true" signature="4404:9907" ph="{...}" />
-            <marker date="1537335415098" expanded="true" signature="9911:15553" ph="/* public Dictionary&lt;PanelOrder, SpeechSet&gt; comics = new Dictionary&lt;PanelOrder, SpeechSet&gt;(){ ... */" />
+            <marker date="1537339744777" expanded="true" signature="6:91" ph="..." />
+            <marker date="1537339744777" expanded="true" signature="128:308" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/PanelManager.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1330">
-          <caret line="70" column="36" selection-start-line="70" selection-start-column="26" selection-end-line="70" selection-end-column="36" />
+        <state relative-caret-position="582">
+          <caret line="82" column="12" selection-start-line="82" selection-start-column="12" selection-end-line="82" selection-end-column="12" />
           <folding>
-            <marker date="1537335366135" expanded="true" signature="6:93" ph="..." />
-            <marker date="1537335366135" expanded="true" signature="136:5125" ph="{...}" />
-            <marker date="1537335366135" expanded="true" signature="179:331" ph="/* public float panel_1_xPos; ... */" />
-            <marker date="1537335366135" expanded="true" signature="823:863" ph="{...}" />
-            <marker date="1537335366135" expanded="true" signature="880:1332" ph="{...}" />
-            <marker date="1537335366135" expanded="true" signature="950:1272" ph="/* if(trackedPanels.Count == 4){ ... */" />
-            <marker date="1537335366135" expanded="true" signature="1391:1487" ph="{...}" />
-            <marker date="1537335366135" expanded="true" signature="1537:2861" ph="{...}" />
-            <marker date="1537335366135" expanded="true" signature="1567:2857" ph="{...}" />
-            <marker date="1537335366135" expanded="true" signature="2889:3704" ph="{...}" />
-            <marker date="1537335366135" expanded="true" signature="2932:3701" ph="{...}" />
-            <marker date="1537335366135" expanded="true" signature="2987:3244" ph="{...}" />
-            <marker date="1537335366135" expanded="true" signature="3090:3230" ph="{...}" />
-            <marker date="1537335366135" expanded="true" signature="3249:3697" ph="/* nearestDropzone = dropzoneArray[0]; ... */" />
-            <marker date="1537335366135" expanded="true" signature="3737:4969" ph="{...}" />
-            <marker date="1537335366135" expanded="true" signature="3766:4966" ph="{...}" />
-            <marker date="1537335366135" expanded="true" signature="3924:3962" ph="{...}" />
-            <marker date="1537335366135" expanded="true" signature="3966:4962" ph="/* if(trackedPanels[i].GetComponent&lt;PanelCollider&gt;().panelToMyLeft == null &amp;&amp; trackedPanels[i].GetComponent&lt;Panel ... */" />
-            <marker date="1537335366135" expanded="true" signature="5079:5086" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_TextSelector_B.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Panel.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
-          <folding>
-            <marker date="1537338191504" expanded="true" signature="6:78" ph="..." />
-            <marker date="1537338191504" expanded="true" signature="115:226" ph="{...}" />
+            <marker date="1537340400263" expanded="false" signature="6:93" ph="..." />
+            <marker date="1537340400263" expanded="true" signature="136:6287" ph="{...}" />
+            <marker date="1537340400263" expanded="true" signature="179:331" ph="/* public float panel_1_xPos; ... */" />
+            <marker date="1537340400263" expanded="true" signature="823:863" ph="{...}" />
+            <marker date="1537340400263" expanded="true" signature="880:1332" ph="{...}" />
+            <marker date="1537340400263" expanded="true" signature="950:1272" ph="/* if(trackedPanels.Count == 4){ ... */" />
+            <marker date="1537340400263" expanded="true" signature="1391:1487" ph="{...}" />
+            <marker date="1537340400263" expanded="true" signature="1537:4023" ph="{...}" />
+            <marker date="1537340400263" expanded="true" signature="1567:4019" ph="{...}" />
+            <marker date="1537340400263" expanded="true" signature="2175:2730" ph="/* panels[0].speechText.text = comicStrip.comics[CreateKey(panels[0].myNum, panels[1].myNum, panels[2].myNum, pan ... */" />
+            <marker date="1537340400263" expanded="true" signature="3363:3938" ph="/* panels[0].speechText.text = comicStrip.actionstar[CreateKey(panels[0].myNum, panels[1].myNum, panels[2].myNum, ... */" />
+            <marker date="1537340400263" expanded="true" signature="4051:4866" ph="{...}" />
+            <marker date="1537340400263" expanded="true" signature="4094:4863" ph="{...}" />
+            <marker date="1537340400263" expanded="true" signature="4149:4406" ph="{...}" />
+            <marker date="1537340400263" expanded="true" signature="4252:4392" ph="{...}" />
+            <marker date="1537340400263" expanded="true" signature="4411:4859" ph="/* nearestDropzone = dropzoneArray[0]; ... */" />
+            <marker date="1537340400263" expanded="true" signature="4899:6131" ph="{...}" />
+            <marker date="1537340400263" expanded="true" signature="4928:6128" ph="{...}" />
+            <marker date="1537340400263" expanded="true" signature="5086:5124" ph="{...}" />
+            <marker date="1537340400263" expanded="true" signature="5128:6124" ph="/* if(trackedPanels[i].GetComponent&lt;PanelCollider&gt;().panelToMyLeft == null &amp;&amp; trackedPanels[i].GetComponent&lt;Panel ... */" />
+            <marker date="1537340400263" expanded="true" signature="6241:6248" ph="{...}" />
           </folding>
         </state>
       </provider>

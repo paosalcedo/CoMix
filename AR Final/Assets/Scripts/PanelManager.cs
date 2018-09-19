@@ -68,16 +68,24 @@ public class PanelManager : MonoBehaviour
 		switch (currentArScene)
 		{
 			case CurrentArScene.Aliens:
-				panels[0].speechText.text = comicStrip.comics[CreateKey(panels[0].myNum, panels[1].myNum, panels[2].myNum, panels[3].myNum)].string_1;
+				panels[0].speechTextPro.text = comicStrip.comics[CreateKey(panels[0].myNum, panels[1].myNum, panels[2].myNum, panels[3].myNum)].string_1;
+				panels[1].speechTextPro.text = comicStrip.comics[CreateKey(panels[0].myNum, panels[1].myNum, panels[2].myNum, panels[3].myNum)].string_2;
+				panels[2].speechTextPro.text = comicStrip.comics[CreateKey(panels[0].myNum, panels[1].myNum, panels[2].myNum, panels[3].myNum)].string_3;
+				panels[3].speechTextPro.text = comicStrip.comics[CreateKey(panels[0].myNum, panels[1].myNum, panels[2].myNum, panels[3].myNum)].string_4;
+				/*panels[0].speechText.text = comicStrip.comics[CreateKey(panels[0].myNum, panels[1].myNum, panels[2].myNum, panels[3].myNum)].string_1;
 				panels[1].speechText.text = comicStrip.comics[CreateKey(panels[0].myNum, panels[1].myNum, panels[2].myNum, panels[3].myNum)].string_2;
 				panels[2].speechText.text = comicStrip.comics[CreateKey(panels[0].myNum, panels[1].myNum, panels[2].myNum, panels[3].myNum)].string_3;
-				panels[3].speechText.text = comicStrip.comics[CreateKey(panels[0].myNum, panels[1].myNum, panels[2].myNum, panels[3].myNum)].string_4;
+				panels[3].speechText.text = comicStrip.comics[CreateKey(panels[0].myNum, panels[1].myNum, panels[2].myNum, panels[3].myNum)].string_4;*/
 				break;
 			case CurrentArScene.ActionStar:
-				panels[0].speechText.text = comicStrip.actionstar[CreateKey(panels[0].myNum, panels[1].myNum, panels[2].myNum, panels[3].myNum)].string_1;
-				panels[1].speechText.text = comicStrip.actionstar[CreateKey(panels[0].myNum, panels[1].myNum, panels[2].myNum, panels[3].myNum)].string_2;
-				panels[2].speechText.text = comicStrip.actionstar[CreateKey(panels[0].myNum, panels[1].myNum, panels[2].myNum, panels[3].myNum)].string_3;
-				panels[3].speechText.text = comicStrip.actionstar[CreateKey(panels[0].myNum, panels[1].myNum, panels[2].myNum, panels[3].myNum)].string_4;
+				panels[0].speechTextPro.text = comicStrip.actionstar[CreateKey(panels[0].myNum, panels[1].myNum, panels[2].myNum, panels[3].myNum)].string_1;
+				panels[1].speechTextPro.text = comicStrip.actionstar[CreateKey(panels[0].myNum, panels[1].myNum, panels[2].myNum, panels[3].myNum)].string_2;
+				panels[2].speechTextPro.text = comicStrip.actionstar[CreateKey(panels[0].myNum, panels[1].myNum, panels[2].myNum, panels[3].myNum)].string_3;
+				panels[3].speechTextPro.text = comicStrip.actionstar[CreateKey(panels[0].myNum, panels[1].myNum, panels[2].myNum, panels[3].myNum)].string_4;
+//				panels[0].speechText.text = comicStrip.actionstar[CreateKey(panels[0].myNum, panels[1].myNum, panels[2].myNum, panels[3].myNum)].string_1;
+//				panels[1].speechText.text = comicStrip.actionstar[CreateKey(panels[0].myNum, panels[1].myNum, panels[2].myNum, panels[3].myNum)].string_2;
+//				panels[2].speechText.text = comicStrip.actionstar[CreateKey(panels[0].myNum, panels[1].myNum, panels[2].myNum, panels[3].myNum)].string_3;
+//				panels[3].speechText.text = comicStrip.actionstar[CreateKey(panels[0].myNum, panels[1].myNum, panels[2].myNum, panels[3].myNum)].string_4;
 				break;
 			case CurrentArScene.Main:
 				//load proper scene.
