@@ -12,28 +12,28 @@ public class ComicStrip {
 			new SpeechSet (
 				"Look at that view.",
 				"I'm hungry.",
-				"We literally \njust ate a horse.",
-				"It was a unicorn, \nyou dolt."	
+				"We literally just ate a horse.",
+				"It was a unicorn, you dolt."	
 			)
 		},
 		{ //2
 			"1243",
 			
 			new SpeechSet (
-				"Whoa, is that \nthe sun?",
-				"I haven't seen it \nsince yesterday",
+				"Whoa, is that the sun?",
+				"I haven't seen it since yesterday",
 				"...",
-				"You lost \nmy shades."	
+				"You lost my shades."	
 			)
 		},
 		{ //3
 			"1342",
 			
 			new SpeechSet (
-				"I'm not built \nfor this weather.",
-				"You're not built \nfor anything.",
+				"I'm not built for this weather.",
+				"You're not built for anything.",
 				"Not even love...",
-				"What did \nI do now?!"	
+				"What did I do now?!"	
 			)
 		},
 		{ //4
@@ -41,7 +41,7 @@ public class ComicStrip {
 			
 			new SpeechSet (
 				"Are we there yet?",
-				"Ask that again \nand I'll...",
+				"Ask that again and I'll...",
 				"Kiss me?",
 				"Fat chance..."	
 			)
@@ -50,10 +50,10 @@ public class ComicStrip {
 			"1432",
 			
 			new SpeechSet (
-				"Where the hell \nare we?",
+				"Where the hell are we?",
 				"You said you knew...",
-				"I told you to \nsteal that map!",
-				"Mouths don't steal, \nwe lie."	
+				"I told you to steal that map!",
+				"Mouths don't steal, we lie."	
 			)
 		},
 		{ //6
@@ -61,7 +61,7 @@ public class ComicStrip {
 			
 			new SpeechSet (
 				"Ah! What a day!",
-				"Thank you \nfor kidnapping me.",
+				"Thank you for kidnapping me.",
 				"You're my eye-dol.",
 				"Don't call me that."	
 			)
@@ -70,8 +70,8 @@ public class ComicStrip {
 			"2134",
 			
 			new SpeechSet (
-				"I think we're \nin trouble.",
-				"I have no idea \nwhere we are.",
+				"I think we're in trouble.",
+				"I have no idea where we are.",
 				"What did you say?",
 				"I trusted you..."	
 			)
@@ -81,8 +81,8 @@ public class ComicStrip {
 			
 			new SpeechSet (
 				"<BURP>",
-				"You think \nthey heard me?",
-				"Don't know, \nbut I smelled it.",
+				"You think they heard me?",
+				"Don't know, but I smelled it.",
 				"Do you even floss?"	
 			)
 		},
@@ -90,9 +90,9 @@ public class ComicStrip {
 			"2314",
 			
 			new SpeechSet (
-				"Wait so you \ndidn't like \nMetal Gear?",
+				"Wait so you didn't like Metal Gear?",
 				"The story is stupid.",
-				"IT'S THE BEST \nTHING EVER!!!",
+				"IT'S THE BEST THING EVER!!!",
 				"Kojima fanboy."	
 			)
 		},
@@ -100,7 +100,7 @@ public class ComicStrip {
 			"2341",
 			
 			new SpeechSet (
-				"Do I have \nanything in \nmy teeth?",
+				"Do I have anything in my teeth?",
 				"Nope.",
 				"...",
 				"I want some ramen."	
@@ -110,38 +110,38 @@ public class ComicStrip {
 			"2413",
 			
 			new SpeechSet (
-				"You should smile \nmore often.",
+				"You should smile more often.",
 				"I'm always smiling.",
-				"The sun says \nyou're lying.",
-				"Eat sand, \nyou loudmouth."	
+				"The sun says you're lying.",
+				"Eat sand, you loudmouth."	
 			)
 		},
 		{ //12
 			"2431",
 			
 			new SpeechSet (
-				"What did \nshe tell you?",
-				"The prophecy will \nbe fulfilled...",
-				"and you're \nan asshole.",
-				"Some things \nnever change."	
+				"What did she tell you?",
+				"The prophecy will be fulfilled...",
+				"and you're an asshole.",
+				"Some things never change."	
 			)
 		},
 		{ //13
 			"3124",
 			
 			new SpeechSet (
-				"Why is brown \nnot dark red?",
-				"It sort of is,\n right?",
-				"Check the \nRGB values.",
-				"But the world \nis black and white..."	
+				"Why is brown not dark red?",
+				"It sort of is, right?",
+				"Check the RGB values.",
+				"But the world is black and white..."	
 			)
 		},
 		{ //14
 			"3142",
 			
 			new SpeechSet (
-				"Mouth, we have to\nfind Nose first.",
-				"They're probably\nin that direction.",
+				"Mouth, we have to find Nose first.",
+				"They're probably in that direction.",
 				"I hope so.",
 				"I nose so."	
 			)
@@ -150,9 +150,9 @@ public class ComicStrip {
 			"3214",
 			
 			new SpeechSet (
-				"Did you take a bath \nthis morning?",
+				"Did you take a bath this morning?",
 				"Uh, no... why?",
-				"Who cares about \nhygiene out here?",
+				"Who cares about hygiene out here?",
 				"I do."	
 			)
 		},
@@ -160,7 +160,7 @@ public class ComicStrip {
 			"3241",
 			
 			new SpeechSet (
-				"Can you take \na photo of me?",
+				"Can you take a photo of me?",
 				"NOW?!",
 				"Why not.",
 				"WE'RE LOST!"	
@@ -170,20 +170,20 @@ public class ComicStrip {
 			"3412",
 			
 			new SpeechSet (
-				"How old \nare you again?",
+				"How old are you again?",
 				"Please be 18.",
-				"What is age \nbut a number?",
-				"I'm old enough \nto drink."	
+				"What is age but a number?",
+				"I'm old enough to drink."	
 			)
 		},
 		{ //18
 			"3421",
 			
 			new SpeechSet (
-				"You left the \nrocket fuel at home?",
-				"We can't get \noff-planet...",
+				"You left the rocket fuel at home?",
+				"We can't get off-planet...",
 				"We can...",
-				"If you leave \nme here."	
+				"If you leave me here."	
 			)
 		},
 		{ //19
@@ -191,8 +191,8 @@ public class ComicStrip {
 			
 			new SpeechSet (
 				"I can't look...",
-				"Trust me, \nit's a great view.",
-				"... If I could \nsee that is...",
+				"Trust me, it's a great view.",
+				"... If I could see that is...",
 				"You can't see?"	
 			)
 		},
@@ -201,18 +201,18 @@ public class ComicStrip {
 			
 			new SpeechSet (
 				"<GROAN>",
-				"Look at \nthe bright side!",
-				"THERE IS \nNO BRIGHT SIDE!",
-				"Even the blind \nsee a bright side."	
+				"Look at the bright side!",
+				"THERE IS NO BRIGHT SIDE!",
+				"Even the blind see a bright side."	
 			)
 		},
 		{ //21
 			"4213",
 			
 			new SpeechSet (
-				"Something's \nin my eye...",
+				"Something is in my eye...",
 				"Which eye?",
-				"I can't be sure \nwith all \nthis sun...",
+				"I can't be sure with all this sun...",
 				"..."	
 			)
 		},
@@ -223,7 +223,7 @@ public class ComicStrip {
 				"Zzz",
 				"Stop sleeping...",
 				"STOP STARING!",
-				"Because you'll \nmiss the view!"	
+				"Because you'll miss the view!"	
 			)
 		},
 		{ //23
@@ -232,7 +232,7 @@ public class ComicStrip {
 			new SpeechSet (
 				"Shhh",
 				"I need to meditate.",
-				"We have \nto keep moving!",
+				"We have to keep moving!",
 				"They are near."	
 			)
 		},
@@ -243,7 +243,7 @@ public class ComicStrip {
 				"Eat shit.",
 				"I'm just kidding.",
 				"Were you, now?",
-				"Let's ask \nthe horizon!"	
+				"Let's ask the horizon!"	
 			)
 		},
 		
@@ -256,17 +256,17 @@ public class ComicStrip {
 			new SpeechSet (
 				"Rodriguez! You're under arrest!",
 				"You'll never take me alive!",
-				"Say hello\nto my little friend!",
-				"You'll have no friends\nwhere you're going!"	
+				"Say hello to my little friend!",
+				"You'll have no friends where you're going!"	
 			)
 		},
 		{ //2
 			"1243",
 			
 			new SpeechSet (
-				"Aha! I've got you now,\nRodriguez!",
-				"All you've got is \na bad moustache!",
-				"It's still better \nthan that goatee!",
+				"Aha! I've got you now,Rodriguez!",
+				"All you've got is a bad moustache!",
+				"It's still better than that goatee!",
 				"TAKE THAT BACK!"	
 			)
 		},
@@ -275,27 +275,27 @@ public class ComicStrip {
 			
 			new SpeechSet (
 				"You were a fool to come after me, Fernando.",
-				"I warned you to \nstay out of this!",
-				"You'd pull a gun \non your own partner?!",
-				"You're right. \nLet's settle this \nlike we're back in academy."	
+				"I warned you to stay out of this!",
+				"You'd pull a gun on your own partner?!",
+				"You're right. Let's settle this like we're back in academy."	
 			)
 		},
 		{ //4
 			"1324",
 			
 			new SpeechSet (
-				"Why are evil lairs \nalways in warehouses?!",
-				"Because gunshots \nsound more dramatic!",
-				"On second thought, \nit does get a bit too loud\neven for me.",
-				"Your taste in lairs is almost \nas bad as your facial hair!"	
+				"Why are evil lairs always in warehouses?!",
+				"Because gunshots sound more dramatic!",
+				"On second thought, it does get a bit too loud even for me.",
+				"Your taste in lairs is almost as bad as your facial hair!"	
 			)
 		},
 		{ //5
 			"1432",
 			
 			new SpeechSet (
-				"Where the hell \nare we?",
-				"How should I know? \nYOU'RE the villain!",
+				"Where the hell are we?",
+				"How should I know? YOU'RE the villain!",
 				"Stop fighting, both of you!",
 				"Who--?!"	
 			)
@@ -305,9 +305,9 @@ public class ComicStrip {
 			
 			new SpeechSet (
 				"You sold all the merchandise?!",
-				"I knew you weren't \nready for the responsibility.",
-				"Shut up! If I didn't sell it all, \nthe pigs would be onto us!",
-				"Too bad--\nbecause I'm a pig."	
+				"I knew you weren't ready for the responsibility.",
+				"Shut up! If I didn't sell it all, the pigs would be onto us!",
+				"Too bad--because I'm a pig."	
 			)
 		},
 		{ //7
@@ -315,8 +315,8 @@ public class ComicStrip {
 			
 			new SpeechSet (
 				"All denim huh?!",
-				"Whatever, mister \nsneaker-color-matches-shirt-color!",
-				"Freeze, Fashion Police here!\nYou're both under arrest!",
+				"Whatever, mister sneaker-color-matches-shirt-color!",
+				"Freeze, Fashion Police here!You're both under arrest!",
 				"You said we would be alone!"	
 			)
 		},
@@ -326,7 +326,7 @@ public class ComicStrip {
 			new SpeechSet (
 				"You said the hostages would be here!",
 				"DO YOU SEE ANY HOSTAGES?!",
-				"The intel said they were.\nThis isn't on me.",
+				"The intel said they were.This isn't on me.",
 				"You think I care?"	
 			)
 		},
@@ -335,16 +335,16 @@ public class ComicStrip {
 			
 			new SpeechSet (
 				"You said there was a foam party here!",
-				"TAKE ME TO \nTHE FOAM PARTY!",
-				"Or all you'll have is FOMO...\ntowards the living!",
-				"Did you just...? \nKill me now please."	
+				"TAKE ME TO THE FOAM PARTY!",
+				"Or all you'll have is FOMO... towards the living!",
+				"Did you just...? Kill me now please."	
 			)
 		},
 		{ //10
 			"2341",
 			
 			new SpeechSet (
-				"At last, \nwe meet again!",
+				"At last, we meet again!",
 				"And today you'll breathe your last!",
 				"A gun? Fighting like a coward again eh?",
 				"At least I won't be dead!"	
@@ -355,8 +355,8 @@ public class ComicStrip {
 			
 			new SpeechSet (
 				"Eat my punches, Fernando!",
-				"You won't even be able to eat \nlugaw when I'm \ndone with you!",
-				"Fool! I'll be eating lechon \non your grave!",
+				"You won't even be able to eat lugaw when I'm done with you!",
+				"Fool! I'll be eating lechon on your grave!",
 				"Have a shot of my gunpowder brew first!"	
 			)
 		},
@@ -376,7 +376,7 @@ public class ComicStrip {
 			new SpeechSet (
 				"Reach for the clouds, Rodriguez!",
 				"ACK!!!",
-				"If you're going to beat me, \ndo it with your bare hands, \nFernando!",
+				"If you're going to beat me, do it with your bare hands, Fernando!",
 				"You'll be having my bare hands for brunch!"	
 			)
 		},
@@ -387,7 +387,7 @@ public class ComicStrip {
 				"Fernando!",
 				"If you move a muscle, I'll--",
 				"You'll what? Shoot me?",
-				"No, I'll beat you \nuntil your kids can't \nrecognize you first!"	
+				"No, I'll beat you until your kids can't recognize you first!"	
 			)
 		},
 		{ //15
@@ -397,7 +397,7 @@ public class ComicStrip {
 				"Which of these two idiots is the undercover cop?",
 				"It's Fernando! Shoot Fernando!",
 				"Fernando if you don't freeze now I'll...",
-				"Stupid! It's Rodriguez!\nHe smells of bribes\nand illegal gambling."
+				"Stupid! It's Rodriguez!He smells of bribes and illegal gambling."
 			)
 		},
 		{ //16
@@ -416,7 +416,7 @@ public class ComicStrip {
 			new SpeechSet (
 				"Did I show you my gun yet?!",
 				"Dammit son, I told you not to buy one!",
-				"You NEVER listen \nto your father!",
+				"You NEVER listen to your father!",
 				"Pa, I'm 30 years old!"	
 			)
 		},
@@ -434,10 +434,10 @@ public class ComicStrip {
 			"4123",
 			
 			new SpeechSet (
-				"Son of a grasshopper! \nThis place is so obviously an evil lair!",
+				"Son of a grasshopper! This place is so obviously an evil lair!",
 				"But don't bad guys always use abandoned warehouses?",
 				"Yes, and the hero always finds us and defeats us in places like these!",
-				"AND THE HERO \nIS ALREADY HERE! \nFREEZE!"	
+				"AND THE HERO IS ALREADY HERE! FREEZE!"	
 			)
 		},
 		{ //20
@@ -445,9 +445,9 @@ public class ComicStrip {
 			
 			new SpeechSet (
 				"<GROAN>",
-				"Look at \nthe bright side!",
-				"THERE IS \nNO BRIGHT SIDE!",
-				"Even the blind \nsee a bright side."	
+				"Look at the bright side!",
+				"THERE IS NO BRIGHT SIDE!",
+				"Even the blind see a bright side."	
 			)
 		},
 		{ //21
@@ -474,17 +474,17 @@ public class ComicStrip {
 			"4312",
 			
 			new SpeechSet (
-				"Don't you get it?\nThe chief is on their payroll!",
-				"Took you two \nlong enough \nto figure it out.",
-				"Any last words \nfrom Manila's finest?",
-				"Let's pretend \nto fight \nas a distraction!"	
+				"Don't you get it? The chief is on their payroll!",
+				"Took you two long enough to figure it out.",
+				"Any last words from Manila's finest?",
+				"Let's pretend to fight as a distraction!"	
 			)
 		},
 		{ //24
 			"4321",
 			
 			new SpeechSet (
-				"You still have \na lot of rice \nto eat, boy.",
+				"You still have a lot of rice to eat, boy.",
 				"Freeze, both of you!",
 				"Stay out of this, captain!",
 				"He's mine!"	

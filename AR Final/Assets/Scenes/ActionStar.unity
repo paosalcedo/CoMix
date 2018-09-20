@@ -197,6 +197,11 @@ Prefab:
       propertyPath: m_isInputParsingRequired
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 212355448951125738, guid: d6bad41ba6cea4df6bb256f479bdc8e9,
+        type: 2}
+      propertyPath: m_SortingOrder
+      value: -1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d6bad41ba6cea4df6bb256f479bdc8e9, type: 2}
   m_IsPrefabAsset: 0
@@ -212,6 +217,33 @@ MonoBehaviour:
     type: 2}
   m_PrefabInternal: {fileID: 524931514}
   m_Script: {fileID: 11500000, guid: d215dffbfae9eab43aeae46b9ea5d140, type: 3}
+--- !u!21 &167049007
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 'ActionStar_2Material
+
+    -13112'
+  m_Shader: {fileID: 10752, guid: 0000000000000000f000000000000000, type: 0}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 5
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 93e1cfa6e476432e91c5e97a5d0a2454, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats: []
+    m_Colors:
+    - _Color: {r: 0.82089555, g: 0.82089555, b: 0.82089555, a: 1}
 --- !u!1 &210048772
 GameObject:
   m_ObjectHideFlags: 0
@@ -631,6 +663,11 @@ Prefab:
       propertyPath: m_isInputParsingRequired
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 212033426270416396, guid: cf6dcf9f4ae6f4840a1c393ac202f8e9,
+        type: 2}
+      propertyPath: m_SortingOrder
+      value: -1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cf6dcf9f4ae6f4840a1c393ac202f8e9, type: 2}
   m_IsPrefabAsset: 0
@@ -830,7 +867,7 @@ Prefab:
         type: 2}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 1434311078}
+      objectReference: {fileID: 167049007}
     - target: {fileID: 33279111154168476, guid: 2893958534ec64caa87940ea34706713,
         type: 2}
       propertyPath: m_Mesh
@@ -845,6 +882,11 @@ Prefab:
         type: 2}
       propertyPath: m_isInputParsingRequired
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 212968562443741826, guid: 2893958534ec64caa87940ea34706713,
+        type: 2}
+      propertyPath: m_SortingOrder
+      value: -1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2893958534ec64caa87940ea34706713, type: 2}
@@ -1170,33 +1212,6 @@ Mesh:
   m_MeshMetrics[0]: 1
   m_MeshMetrics[1]: 1
   m_MeshOptimized: 0
---- !u!21 &1434311078
-Material:
-  serializedVersion: 6
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_Name: 'ActionStar_2Material
-
-    18608'
-  m_Shader: {fileID: 10752, guid: 0000000000000000f000000000000000, type: 0}
-  m_ShaderKeywords: 
-  m_LightmapFlags: 5
-  m_EnableInstancingVariants: 0
-  m_DoubleSidedGI: 0
-  m_CustomRenderQueue: -1
-  stringTagMap: {}
-  disabledShaderPasses: []
-  m_SavedProperties:
-    serializedVersion: 3
-    m_TexEnvs:
-    - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 93e1cfa6e476432e91c5e97a5d0a2454, type: 3}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    m_Floats: []
-    m_Colors:
-    - _Color: {r: 0.82089555, g: 0.82089555, b: 0.82089555, a: 1}
 --- !u!1 &1437310346 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1099791776677526, guid: 2893958534ec64caa87940ea34706713,
@@ -1490,6 +1505,21 @@ Prefab:
         type: 2}
       propertyPath: m_isInputParsingRequired
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 224911557698331570, guid: c5f4550f3b4614ccc943c94f5e7d71ae,
+        type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -4.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 224911557698331570, guid: c5f4550f3b4614ccc943c94f5e7d71ae,
+        type: 2}
+      propertyPath: m_AnchoredPosition.y
+      value: -25.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 212049119216372162, guid: c5f4550f3b4614ccc943c94f5e7d71ae,
+        type: 2}
+      propertyPath: m_SortingOrder
+      value: -1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c5f4550f3b4614ccc943c94f5e7d71ae, type: 2}
